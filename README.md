@@ -28,13 +28,6 @@ $ pnpm prune --production
 $ pnpm start
 ```
 
-## Hosting Setup
-
-Setup Tutorial Video (YouTube)
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=9csIDZYpaJM" target="_blank">
- <img src="http://img.youtube.com/vi/9csIDZYpaJM/0.jpg" alt="Setup Guide Video" width="360" border="10" />
-</a>
 
 ### Docker
 You can use our official Docker image:
